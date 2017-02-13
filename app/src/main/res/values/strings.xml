@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataBaseHomeWork</string>
+    <string name="comment">Comment</string>
+    <string name="submit">Submit</string>
+    <string name="coment_show_area">coment Show Area</string>
+    <string name="show_comments">Show Comments</string>
+    <string name="comment_id">Comment ID</string>
+    <string name="delete">Delete</string>
+    <string name="_1">1</string>
+</resources>
