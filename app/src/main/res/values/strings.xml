@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AndroidAdapter</string>
+    <string name="base_adapter">Base Adapter</string>
+    <string name="array_adapter">Array Adapter</string>
+    <string name="custom_adapter">Custom Adapter</string>
+    <string name="cursor_adapter">Cursor Adapter</string>
+</resources>
